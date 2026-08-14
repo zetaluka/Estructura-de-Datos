@@ -8,4 +8,4 @@
 
 ## Descripción
 
-Repositorio para subir los avances/tareas de la asignatura Estructura de Datos
+Repositorio para subir los avances/tareas de la asignatura Estructura de Datos.
