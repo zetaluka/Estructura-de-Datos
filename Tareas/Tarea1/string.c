@@ -20,7 +20,7 @@ termina la cadena.
 #include <time.h>    /* <-- Para usar time(NULL)   */
 
 #define MAXFIL 4
-#define MAXCOL 51
+#define MAXCOL 21
 
 int main(void)
 {
